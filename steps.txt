@@ -1,0 +1,9 @@
+0) Desenvolver entidades do diagrama de blocos
+1) Pegar vga_ball e adaptar para as entidades que forem usar as lógicas que estiverem nele
+1.1) Desenhar bola e cobra na posição inicial na tela. Jogo começa se alguém apertar algum comando.
+2) Desenvolver clock_divider (pegar do lab de relógio digital)
+3) Desenvolver posição randomica da bola na tela
+4) Desenvolver movimento da cobra na tela
+5) Desenvolver mecânica de hits
+6) Desenvolver score
+7) Cores (bola/caebça da cobra)
